@@ -1,0 +1,6 @@
+[submodule "FOSS/polyglot"]
+	path = FOSS/polyglot
+	url = https://github.com/aboSamoor/polyglot
+[submodule "FOSS/Stockfish"]
+	path = FOSS/Stockfish
+	url = https://github.com/official-stockfish/Stockfish
